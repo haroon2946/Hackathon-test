@@ -29,7 +29,7 @@ const Hero = () => {
             </div>
 
             <div className='w-full md:w-[40%] h-auto md:h-[580px] bg-white flex justify-center items-end'>
-              <Image src={'/images/rightt.png'} width={400} height={400} alt='right' />
+              <Image src={'/images/chair.png'} width={400} height={400} alt='right' />
             </div>
           </div>
         </div>

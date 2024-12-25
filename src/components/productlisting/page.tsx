@@ -37,7 +37,7 @@ const ProductListing = () => {
           <div className="flex flex-col md:flex-row gap-8 items-center">
             <div className="w-full md:w-1/2 h-auto">
               <Image
-                src={'/images/Image Left.png'}
+                src={'/images/image Left.png'}
                 height={800}
                 width={800}
                 alt="chair"
